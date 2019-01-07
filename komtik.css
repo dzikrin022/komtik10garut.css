@@ -13,7 +13,7 @@ div.blue {
 		border-radius: 50px 50px 0 0;
 		border: 2px solid black;
 	}
-	div.yellow {
+div.yellow {
 		background-color: #E8F604;
 		width: 100px;
 		height: 100px;
@@ -23,7 +23,7 @@ div.blue {
 		border-radius: 0 0 50px 0;
 		border: 2px solid black;
 	}
-	div.green {
+div.green {
 		background-color: #1FA209;
 		width: 100px;
 		height: 100px;
@@ -33,7 +33,7 @@ div.blue {
 		border-radius: 0 50px 50px 0;
 		border: 2px solid black;
 	} 
-	div.red {
+div.red {
 		background-color: #ED1717;
 		width: 100px;
 		height: 100px;
@@ -43,7 +43,7 @@ div.blue {
 		border-radius: 50px 0 50px 50px;
 		border: 2px solid black;
 	}
-	div.box{
+div.box{
 		background-color: #FFFFFF;
 		width: 125px;
 		height: 125px;
@@ -53,7 +53,7 @@ div.blue {
 		border-radius: 35px 35px 35px 35px;
 		border: 2px solid black;
 	}
-	div.roundy {
+div.roundy {
 		background-color: E8F604;
 		width: 40px;
 		height: 40px;
@@ -63,7 +63,7 @@ div.blue {
 		border-radius: 50px 50px 50px 50px;
 		border: 2px solid black;
 	}
-	div.roundg {
+div.roundg {
 		background-color: 1FA209;
 		width: 40px;
 		height: 40px;
@@ -73,7 +73,7 @@ div.blue {
 		border: 2px solid black;
 		border-radius: 25px 25px 25px 25px;
 	}
-	div.roundb {
+div.roundb {
 		background-color: #120767;
 		width: 40px;
 		height: 40px;
@@ -83,7 +83,7 @@ div.blue {
 		border-radius: 20px 20px 20px 20px;
 		border: 2px solid black;
 	}
-	div.roundr {
+div.roundr {
 		background-color: #ED1717;
 		width: 40px;
 		height: 40px;
@@ -93,7 +93,7 @@ div.blue {
 		border-radius: 20px 20px 20px 20px;
 		border: 2px solid black;
 	}
-	p {
+p {
 		margin-top: 40px;
 		font-weight: bold;
 		text-align: center;
